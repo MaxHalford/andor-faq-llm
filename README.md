@@ -2,6 +2,10 @@
 
 This is a prototype for a search engine for the [Andor](https://andor.iello.fr/) tabletop game. It uses OpenAI to index Andor's rulebook and FAQ. It suggests parts of the rulebook when a question is asked, and will also synthesize an answer. The cool idea is that the user can see the relevant parts of the rulebook, and not just some synthetic answer.
 
+## Demo
+
+https://andor-faq-llm.streamlit.app
+
 ## Steps to reproduce
 
 I installed a couple of dependencies on my MacBook Pro.
