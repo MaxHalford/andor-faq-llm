@@ -1,0 +1,3 @@
+tqdm
+pdf2image
+pytesseract

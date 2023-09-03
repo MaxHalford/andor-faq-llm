@@ -1,6 +1,3 @@
-pdf2image
-pytesseract
 PIL
 requests
 streamlit
-tqdm

@@ -10,6 +10,7 @@ I installed a couple of dependencies on my MacBook Pro.
 brew install tesseract
 brew install tesseract-lang
 pip install -r requirements.txt
+pip install -r requirements.dev.txt
 ```
 
 I downloaded the PDF of rules from [here](https://www.jeuxavolonte.asso.fr/regles/andor.pdf). This is a scanned PDF, so some OCR is needed to extract the text content.
