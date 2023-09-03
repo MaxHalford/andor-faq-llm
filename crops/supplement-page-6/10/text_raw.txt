@@ -1,0 +1,5 @@
+Exemple : Un 3 obtenu après un jet ne peut pas être doublé en un 6 avec une
+Potion pour ensuite être combiné à un autre 6 obtenu après ce même jet.
+
+En revanche, la Capacité Spéciale du Magicien peut être combinée avec
+le pouvoir du Heaume.

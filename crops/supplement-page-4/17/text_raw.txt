@@ -1,0 +1,3 @@
+son
+déplacement sur une case avec un jeton Brouillard. Celui-ci esi
+suite activé. Comme le Héros a terminé son déplacement, ilne

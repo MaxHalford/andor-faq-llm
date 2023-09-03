@@ -1,0 +1,1 @@
+L'Archer, qui se trouve sur une case adjacente à un Gor, peut à son tour inviter le Nain à combattre, car celui-ci se situe sur la même case que la Créature visée.

@@ -1,0 +1,1 @@
+Les points d'une Herbe ne peuvent pas être panachés (par exemple, un Héros ne peut pas avoir 2 déplacements et 1 Point de Volonté ave Herbe de valeur 3).

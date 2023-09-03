@@ -1,0 +1,2 @@
+Thorald ne peut pas ramasser d'Objets et ne peut pas escorter de Paysans.
+Les Soldats Nains suivent exactement les mêmes règles.

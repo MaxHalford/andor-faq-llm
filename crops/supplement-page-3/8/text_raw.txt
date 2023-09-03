@@ -1,0 +1,4 @@
+Le) Héros dont c'est le tour choisit une de ces trois actions :
+
+Se déplacer OU combattre OU passer
+

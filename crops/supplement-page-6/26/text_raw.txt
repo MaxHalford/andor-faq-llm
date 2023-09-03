@@ -1,0 +1,14 @@
+Le chiffre de la tuile indique sa valeur. Un Héros dont la Pierre du
+Temps ne se trouve pas sur la case Lever du Soleil peut utiliser la valeur
+d'une Herbe d'une de ces trois façons :
+
++ Comme déplacements supplémentaires, s'il choisit de se dép ;
+Ces déplacements ne lui coûtent pas d'Heure.
+
++ Comme Points de Force supplémentaires lors d'un tour de «
+Le joueur doit décider immédiatement après son jet s'il utilise
+non l'Herbe.
+
++ Pour gagner des Points de Volonté. Il ajuste le marqueur sur sa:
+en conséquence.
+

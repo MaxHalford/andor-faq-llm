@@ -1,0 +1,8 @@
+Deux joueurs qui ne sont pas sur la même case peuvent séchanger
+des petits Objets (Gourde, Longue-vue, Potion, Pierre Runique,
+Poison, Herbe, Parchemin), un Heaume, des Pièces d'Or et des Pierres
+Précieuses (quelque soit leur nombre). Pour cela, il faut que l'un des
+deux possède un Faucon et puisse l'utiliser.
+
+Les grands Objets (Arc ou Bouclier) ne peuvent pas être échangés de
+cette manière.

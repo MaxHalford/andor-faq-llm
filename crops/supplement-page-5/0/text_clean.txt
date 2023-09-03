@@ -1,0 +1,1 @@
+Les Créatures n'activent aucun jeton (Puits, Brouillard.) et ne déclenchent aucun combat.

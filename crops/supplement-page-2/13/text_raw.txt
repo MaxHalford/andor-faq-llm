@@ -1,0 +1,3 @@
+Si un Héros a terminé sa Journée, il ne joue plus pour cette Journée.
+Les autres Héros à qui il reste des Heures peuvent eux continuer à
+jouer.

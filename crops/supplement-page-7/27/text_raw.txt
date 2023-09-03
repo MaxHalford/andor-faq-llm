@@ -1,0 +1,5 @@
+Important : L'ordre dans lequel les Créatures se déplacent res reste
+inchangé. On commence par tous les Gors, puis on continue avec toi
+les Skrals, tous les Wardraks.. Les Pierres Précieuses sur lesquelles
+apparaissent de nouvelles Créatures sont aussitôt retirées du jeu.
+

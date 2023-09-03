@@ -1,0 +1,3 @@
+*Peut-on transmettre un Objet durant un tour de combat? Par exemple, peut-on se servir de la Potion de la Sorcière une première fois et la donner à un autre Héros afin qu'il l'utilise immédiatement une seconde fois?*
+
+Non, ce n'est pas possible. Les Objets ne peuvent pas être transmis durant un tour de combat. On ne peut pas non plus utiliser le Faucon pour envoyer un Objet à un autre Héros lors d'un tour de combat.

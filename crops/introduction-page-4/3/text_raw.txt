@@ -1,0 +1,4 @@
+Un Héros dont c'est le tour et qui ne veut pas utiliser
+d'Heures supplémentaires place sa Pierre du Temps sur la case Lever du Soleil. Si c'est le premier, il la place
+_ sur le Coq et sera le premier joueur de la Journée suivante.
+

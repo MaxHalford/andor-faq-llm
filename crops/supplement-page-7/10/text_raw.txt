@@ -1,0 +1,2 @@
+Il'est impossible d'acheter chez un Marchand pendant un déplacement
+ou un tour de combat.

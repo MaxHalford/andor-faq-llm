@@ -1,0 +1,1 @@
+Tous les joueurs doivent avoir terminé leur Journée et placé leur Pierre du Temps sur la case Lever du Soleil avant de commencer la suivante. Appliquez alors les étapes du début de Journée l'une après l'autre (carte Événement, déplacement des Créatures, rafraîchissement des Puits, progression du Narrateur).

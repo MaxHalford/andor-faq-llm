@@ -1,0 +1,5 @@
+Exemple : Dans la Légende 2, les positions des Pierres Runiques sont
+déterminées aléatoirement. Une se situe sur une case adjacente au Nain.
+
+Comme il a la Longue-vue, il peut tout de suite la révéler, même si ce n'est
+pas son tour.

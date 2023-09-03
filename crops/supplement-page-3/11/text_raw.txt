@@ -1,0 +1,5 @@
+Un Héros peut à son tour avancer d'autant de cases qu'il le souhaite,
+du moment qu'il a assez d'Heures à sa disposition. Chaque case que le
+Héros emprunte lui coûte 1 Heure. Chaque Heure dépensée fait avancer
+la Pierre du Temps du joueur d'une case. Les flèches représentées sur les
+cases ne jouent aucun rôle dans le déplacement des Héros.

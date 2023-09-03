@@ -1,0 +1,3 @@
+Peut-on aller et venir sur la case 0 (le Château) comme sur n'importe quelle autre
+case ?
+Oui. On peut accéder au Château par toutes les cases voisines et le traverser normalement.

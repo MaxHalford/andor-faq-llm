@@ -1,0 +1,2 @@
+Il est impossible d'utiliser le Faucon pendant un tour de combat ou un
+déplacement.

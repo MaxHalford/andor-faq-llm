@@ -1,0 +1,2 @@
+Important : Le Narrateur se déplace à chaque Lever du Soleil, mais
+aussi à chaque fois qu'une Créature est vaincue.

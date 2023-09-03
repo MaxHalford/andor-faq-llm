@@ -1,0 +1,3 @@
+*Après avoir découvert un Gor caché dans le brouillard grâce à la Longue-Vue, peut-on utiliser l'Arc pour l'attaquer d'une case adjacente?*
+
+Non. Essayez un peu de tirer à l'arc tout en regardant dans une longue-vue, et vous comprendrez pourquoi.

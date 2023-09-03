@@ -1,0 +1,1 @@
+Il est impossible d'utiliser un Puits pendant un déplacement ou un tour de combat.

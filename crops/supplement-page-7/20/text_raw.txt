@@ -1,0 +1,4 @@
+Un Héros peut décider à son tour de déplacer le Prince au lieu de se
+déplacer, combattre ou passer. Pour chaque Heure dépensée, il peut
+déplacer Thorald jusqu'à 4 cases. Après avoir déplacé le Prince, c'est au
+tour du joueur suivant.

@@ -1,0 +1,5 @@
+Elles peuvent être révélées comme les jetons Brouillard avec la Lon,
+vue. Elles peuvent être révélées et ramassées même si une C
+se trouve sur la case. Un Héros n'est pas obligé de révéler un
+Runique.
+

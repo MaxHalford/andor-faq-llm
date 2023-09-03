@@ -1,0 +1,7 @@
+*Peut-on acheter quelque chose chez un Marchand pendant un déplacement?*
+
+Non. On doit pour cela terminer son déplacement sur une case comportant un symbole Marchand. On ne peut plus se déplacer ensuite.
+
+En revanche, une fois sur la case, on peut faire des achats même si ce n'est pas à son tour de jouer.
+
+Exemple: Paco a 2 Pièces d'or et arrive sur une case avec un symbole Marchand. Il peut alors faire un achat, mais dans ce cas, son déplacement est terminé. C'est au tour des joueurs suivants: grâce au Faucon, l'un d'eux envoie 2 Pièces d'or à Paco. Ceci permet à ce dernier de faire immédiatement un nouvel achat, bien que ce ne soit pas à lui de jouer. Plus tard, à son tour de jeu, Paco pourra effectuer son action tout à fait normalement (se déplacer, par exemple).

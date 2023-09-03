@@ -1,0 +1,13 @@
+Les Actions Supplémentaires Gratuites
+
+Les actions suivantes ne coûtent pas d'Heures. Elles peuvent être réalisées n'importe quand, même si ce n'est pas son tour. Cependant, si la Pierre du Temps d'un Héros est sur la case Lever du Soleil, ce Héros ne peut pas les réaliser.
+
+Les actions supplémentaires gratuites d'un Héros sont:
+
+- Activer un jeton Brouillard
+- Vider un Puits
+- Ramasser ou déposer des Objets ou des Pièces d'Or sur sa case
+- Offrir ou échanger des Objets ou des Pièces d'Or avec un autre Héros
+qui se trouve sur la même case
+- Acheter chez un Marchand des Points de Force et/ou des Objets
+- Utiliser des Objets

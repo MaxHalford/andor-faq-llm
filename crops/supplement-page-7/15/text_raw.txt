@@ -1,0 +1,5 @@
+Les Paysans peuvent être amenés au Château. Chaque jeton Paysan
+amené au Château ajoute une case Défense supplémentaire et permet
+donc d'accueillir une Créature de plus dans le Château sans perdre la
+Légende. Le jeton est simplement retourné du côté illustrant le Bouclier
+doré et placé près des autres cases Défense.

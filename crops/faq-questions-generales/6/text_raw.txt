@@ -1,0 +1,10 @@
+Peut-on se servir de la Longue-vue durant un déplacement pour découvrir tous les
+jetons des cases voisines se trouvant sur son passage parcours ?
+Non. La Longue-vue ne peut pas être utilisée pendant un déplacement. Lorsqu'un Héros est
+immobilisé, on peut retourner tous les jetons situés sur les cases adjacentes à n'importe quel
+moment : avant ou après l’action du joueur, et même hors de son tour.
+
+Exemple : dans la Légende 2, on lance les dés pour déterminer la position des Pierres Runiques.
+Si l'une d'elles est déposée sur une case voisine d'un Héros possédant la longue-vue, ce
+
+_joueur peut la révéler immédiatement même si ce n'est pas à lui de jouer.

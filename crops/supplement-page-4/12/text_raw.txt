@@ -1,0 +1,3 @@
+L'Archer, qui se trouve sur une case adjacente à un Gor, peut inviter
+le Guerrier qui porte un Arc et se trouve sur une autre case adjacente
+au même Gor.

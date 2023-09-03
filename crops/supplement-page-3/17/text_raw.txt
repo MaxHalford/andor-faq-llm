@@ -1,0 +1,14 @@
+LAttaque du Héros :
+
+1. Au début de chaque tour de combat, la Pierre du Temps du Héros qui
+attaque est avancée d’une case.
+
+2. Le Héros jette tous les dés qu’il a à sa disposition en une seule fois (le
+nombre de dés est indiqué à gauche de la ligne indiquant ses Points
+de Volonté actuels).
+
+3. Il additionne le résultat de son dé de plus grande valeur et son
+nombre de Points de Force. Ceci lui donne sa valeur de combat.
+
+4. Si le Héros veut utiliser une Potion ou une Herbe, il doit se décider
+maintenant. Il ne peut pas attendre que la Créature ait riposté.

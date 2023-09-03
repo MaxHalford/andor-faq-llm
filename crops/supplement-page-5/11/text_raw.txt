@@ -1,0 +1,25 @@
+La Case Lever du Soleil
+
+1. Piochez la première carte Événement et appliquez son effet.
+
+2-6. Déplacez toutes les Créatures en suivant l'ordre des
+symboles. Commencez avec les Gors, puis les Skrals, les Wardraks,
+les Trolls et encore une fois les Wardraks. Pour chaque sorte de
+Créature, commencez toujours par celle qui se situe sur la case avec
+le plus petit numéro.
+
+Important : Sur chaque case, il ne peut y avoir qu'une seule Créature. Si
+la case de destination d'une Créature est déjà occupée, elle poursuit son
+déplacement vers la prochaine case libre en suivant la flèche.
+
+7. Rafraîchissez tous les Puits
+
+Retournez tous les Puits vidés du côté coloré.
+
+Important : ne rafraichissez pas les Puits des cases sur lesquelles se
+trouve un Héros.
+
+8. Avancez le Narrateur d'une lettre sur la Piste des Légendes.
+Cela se produit également à chaque fois qu'une Créature est vaincue. Si
+le Narrateur atteint une lettre qui contient une Étoile, révélez et lisez la
+carte Légende associée.

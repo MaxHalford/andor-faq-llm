@@ -1,0 +1,1 @@
+Le jeu se déroule en plusieurs Journées. Chaque Journée dure normalement 7 Heures, mais peut s'allonger jusqu'à 3 Heures supplémentaires.

@@ -1,0 +1,6 @@
+Le Héros qui porte un Heaume peut ajouter tous les dés de même
+valeur après son jet. Cet Objet est inutile à l'Archer ou aux Héros qui
+utilisent un Arc, puisqu'ils ne peuvent conserver que le dernier dé jeté.
+Il est aussi inutile au Magicien, puisqu'il n'a qu'un seul dé. Cependant,
+ces Héros peuvent en acheter et en porter un pour le donner plus tard
+au Guerrier ou au Nain, pour lesquels cet Objet est très utile.

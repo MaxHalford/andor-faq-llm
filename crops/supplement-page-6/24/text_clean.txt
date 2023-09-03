@@ -1,0 +1,1 @@
+Il est impossible de combiner les pouvoirs de la Potion et du Heaume. Si un Héros possède ces deux Objets, il doit décider lequel il utilise.

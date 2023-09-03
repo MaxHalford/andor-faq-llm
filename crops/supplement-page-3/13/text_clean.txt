@@ -1,0 +1,1 @@
+Exemple pour un tour de déplacement: Le Magicien se déplace de la case 9 à la case 11 qui contient un jeton Brouillard. Comme il s'est déplacé de 2 cases, il avance sa Pierre du Temps de 2 cases. Il doit maintenant retourner le jeton et appliquer son effet. C'est ensuite le tour du joueur suivant dans le sens des aiguilles d'une montre.

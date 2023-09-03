@@ -1,0 +1,4 @@
+illustration, le jeton peut faire piocher une carte Événement,
+gagner des Points de Force, de Volonté, une Gourde ou des Pièces
+- Deux jetons font apparaître un Gor. Dans ce cas, placez-les sur la
+sur laquelle était le jeton.

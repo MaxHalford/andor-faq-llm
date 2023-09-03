@@ -1,0 +1,4 @@
+Sous les Points de Force sont indiquées les récompenses que les Héros
+reçoivent en cas de victoire sur la Créature. Par exemple, pour un Wardrak
+ils recevront 6 Points de Volonté ou 6 Pièces d'Or qui peuvent être panachés
+et partagés librement entre les Héros présents au dernier assaut.

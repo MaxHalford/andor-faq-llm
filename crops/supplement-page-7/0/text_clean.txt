@@ -1,0 +1,2 @@
+La Château (case 0) est une case comme une autre. Les Héros peuvent
+s'y arrêter et le traverser comme ils le souhaitent. Il leur suffit d'arriver par l'une des cases adjacentes.

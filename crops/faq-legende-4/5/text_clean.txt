@@ -1,0 +1,3 @@
+*Une des cartes Événements du "Lac secret" requiert de jeter tous ses dés; s'agit-il de tous les dés de la couleur du Héros, ou juste de ceux correspondant à ses Points de Volonté actuels?*
+
+Lorsqu'il vous est demandé de lancer "tous vos dés", il s'agit toujours de tous les dés auxquels vous avez actuellement accès, en fonction de vos Points de Volonté sur le moment.

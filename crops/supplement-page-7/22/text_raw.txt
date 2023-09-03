@@ -1,0 +1,2 @@
+Les Héros, les Créatures et le Faucon ne peuvent pas s'arrêter sur une
+case avec un jeton Éboulis. Ils ne peuvent pas la traverser non plus.

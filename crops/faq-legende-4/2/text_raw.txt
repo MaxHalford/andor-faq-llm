@@ -1,0 +1,11 @@
+Comment peut-on éliminer les jetons Éboulis ?
+
+C'est l'équivalent de l’action “Combattre” : chaque tentative pour éliminer un Éboulis coûte une
+Heure sur la Piste du Temps. De la même manière qu’un combat peut être composé de plusieurs
+tours de combat, il est possible d'effectuer plusieurs essais d'affilée. Pour faire disparaître un
+Éboulis, la valeur de combat du Héros (Points de Force + valeur des dés) doit être au moins aussi
+grande que le nombre inscrit sur le jeton. Si la valeur de combat correspond à la somme de
+plusieurs jetons, le joueur peut retirer tous ceux-ci en une seule fois. Comme lors d’un combat
+contre une Créature, plusieurs Héros peuvent s’unir pour détruire un Éboulis. Cela coûte à chacun
+des Héros participants une Heure sur la Piste du Temps. Les jetons Éboulis éliminés sont ensuite
+retirés du jeu.

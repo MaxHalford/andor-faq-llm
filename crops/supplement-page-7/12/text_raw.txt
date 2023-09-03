@@ -1,0 +1,4 @@
+La Sorcière se cache dans le brouillard. Si un Héros active le jeton
+Brouillard illustrant la Sorcière et sa Potion, il reçoit tout de suite
+gratuitement une Potion du plateau Objets et place le pion Sorcière sur
+la case du jeton activé.

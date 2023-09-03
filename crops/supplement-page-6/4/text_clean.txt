@@ -1,0 +1,2 @@
+Chaque côté du Bouclier peut être utilisé une fois pour protéger le
+Héros d'une perte de Points de Volonté après un tour de combat. En cas d'utilisation dans un combat en groupe, le Bouclier ne permet que de se protéger soi-même: les autres subissent la perte de Points de Volonté. Il est aussi possible de protéger le groupe des Héros contre l'effet négatif d'une carte Evénement. Toutes les cartes sur lesquelles est dessiné un Bouclier peuvent être évitées de cette façon (y compris au Lever du Soleil).

@@ -1,0 +1,3 @@
+Chada l'archère peut-elle bénéficier des effets du casque?
+Non, car elle doit toujours (même lorsqu'elle se trouve sur la même case que la Créature attaquée)
+lancer ses dés un par un. Eara la Magicienne ne peut pas non plus profiter du pouvoir du casque.

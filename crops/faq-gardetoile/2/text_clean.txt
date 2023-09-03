@@ -1,0 +1,3 @@
+*Combien de Points de Force les Loups possèdent-ils après que le Loup Alpha a été apprivoisé?*
+
+Une fois apprivoisés, les Loups possèdent autant de Points de Force qu'Orfen au moment où il dompte le Loup Alpha: en effet, après cet exploit, Orfen place le symbole Loup sur sa fiche de Héros, juste au-dessus de son propre marqueur des Points de Force (cube): il indique la Force des Loups pour le reste de la partie.

@@ -1,0 +1,6 @@
+Lorsque le Héros qui a engagé le combat veut abandonner, les autres peuvent-ils
+continuer à combattre ?
+Oui, les autres Héros peuvent poursuivre le combat sans le joueur qui l’a engagé et dont c'est le
+tour de jeu. Dans ce cas, le premier Héros situé à la gauche de ce dernier parmi les combattants
+débute le nouveau tour de combat. Enfin, lorsque le combat est terminé, on reprend la partie à
+partir de celui qui l'avait initié et c’est au joueur suivant dans le sens horaire de faire une action

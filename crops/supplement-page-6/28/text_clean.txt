@@ -1,0 +1,1 @@
+Un Héros peut décider de ne pas utiliser tous les points de l'Herbe, les points restant sont perdus.

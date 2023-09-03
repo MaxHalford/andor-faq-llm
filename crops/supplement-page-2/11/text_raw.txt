@@ -1,0 +1,3 @@
+Chaque Journée, un Héros peut effectuer jusqu'à 3 Heures
+supplémentaires. Chaque Heure supplémentaire lui coûte 2
+Points de Volonté.

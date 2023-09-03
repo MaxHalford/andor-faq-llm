@@ -1,0 +1,1 @@
+Si un Héros traverse une case qui contient un jeton Brouillard, il ne se passe rien. Si un Héros termine son déplacement sur une case qui contient in jeton Brouillard, il doit révéler le jeton et appliquer son effet.

@@ -1,0 +1,10 @@
+Équipement : €
+Au cours du jeu, les
+Héros récupèrent
+
+des Objets. Chaque
+emplacement ne
+
+peut accueillir
+
+qu’un seul Objet.

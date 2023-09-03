@@ -1,0 +1,3 @@
+*Que peut transporter le Faucon?*
+
+Le Faucon peut transporter tous les Objets pouvant être placés sur l'un des trois emplacements prévus sur les fiches de Héros, plus un Heaume, des Pièces d'Or et des Pierres Précieuses.

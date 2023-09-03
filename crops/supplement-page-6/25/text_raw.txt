@@ -1,0 +1,2 @@
+Les Héros peuvent ramasser des Herbes Médicinales et les placer sur
+les petites cases Équipement de leur fiche.

@@ -1,0 +1,6 @@
+Rang :
+
+Chaque Héros a un Rang qui servira
+
+à déterminer l'ordre de résolution de
+certaines actions.

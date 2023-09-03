@@ -1,0 +1,4 @@
+roS dispose d'un emplacement pour un Heaume (sur la tête),
+placement pour un grand Objet (Faucon, Arc ou Bouclier — sur
+gauche) et de 3 emplacements pour des petits Objets (Gourde,
+-vue, Potion, Pierre Runique, Poison, Herbe, Parchemin — à droite)

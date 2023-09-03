@@ -1,0 +1,1 @@
+A la fin d'un tour de combat, chaque Héros peut décider d'abandonner Les Héros qui abandonnent ne pourront plus revenir dans le combat. Les Héros ayant engagé le combat peut abandonner sans que le combat prenne fin. Tant qu'au moins un Héros participe, le combat n'est pas terminé. Dans ce cas, c'est le Héros suivant dans l'ordre du jeu qui commencera le prochain tour de combat.

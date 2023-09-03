@@ -1,0 +1,6 @@
+Un joueur peut décider de dépenser plus de 7 Heures en un
+Il peut effectuer jusqu'à 3 Heures supplémentaires, chacune lui. coûte
+2 Points de Volonté. Il recule donc le disque de sa fiche de Héros de
+2 cases pour chaque Heure supplémentaire effectuée. Un Héros ne
+peut jamais descendre à 0 Point de Volonté en effectuant des Heures
+supplémentaires.

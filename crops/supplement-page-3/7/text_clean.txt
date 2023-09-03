@@ -1,0 +1,1 @@
+Sous le nom du Héros est aussi indiqué son Rang. Le Magicien a le plus haut rang (34) et le Nain le plus bas (7).

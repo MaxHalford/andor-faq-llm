@@ -1,0 +1,4 @@
+Un Héros qui porte un Arc nest pas obligé d'utiliser son Arc lors d'un
+combat contre une Créature qui se trouve sur la même case que lui :
+il peut jeter tous ses dés en une seule fois. L'Archer n'est pas concerné
+par cette règle.

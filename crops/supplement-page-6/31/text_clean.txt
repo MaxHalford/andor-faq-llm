@@ -1,0 +1,1 @@
+Comme les autres Objets, l'Herbe peut être donnée à un autre Héros.

@@ -1,0 +1,2 @@
+Qui commence lorsque plusieurs Héros combattent ensemble ?
+À chaque tour de combat, c’est le Héros qui a invité les autres à combattre qui commence.

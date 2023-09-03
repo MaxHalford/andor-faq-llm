@@ -1,0 +1,2 @@
+Un Héros peut acheter des Objets et des Points de Force sur les cases
+illustrées d'un symbole Marchand (cf. le plateau Objets).

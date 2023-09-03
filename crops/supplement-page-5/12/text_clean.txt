@@ -1,0 +1,1 @@
+Si le Narrateur atteint le N de la Piste des Légendes, le jeu est terminé.

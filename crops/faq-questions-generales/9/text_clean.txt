@@ -1,0 +1,3 @@
+*Un Héros peut-il se servir du Faucon pour transporter de petits Objets entre deux autres Héros?*
+
+Non. L'un des deux Héros prenant part à l'échange doit lui-même être en possession du Faucon.

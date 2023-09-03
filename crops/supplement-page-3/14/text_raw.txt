@@ -1,0 +1,7 @@
+Remarque : le Château (case 0) est une case comme une autre. Les Héros
+peuvent s'y arrêter et le traverser sans restriction. Il suffit d'arriver par
+une des cases adjacentes.
+
+On ne peut pas s'arrêter sur le fleuve. Pour le traverser, il faut
+obligatoirement utiliser les ponts. Les ponts ne sont pas considérés comme
+des cases, et ne sont pas comptés lors du déplacement.

@@ -1,0 +1,3 @@
+Si le Héros n'a plus de Points de Volonté, il perd 1 Point de Force si il lui en reste plus d'1 et récupère 3 Points de Volonté. Dans certaines Légendes, le Héros meurt et est éliminé.
+
+C'est ensuite au tour du joueur suivant.

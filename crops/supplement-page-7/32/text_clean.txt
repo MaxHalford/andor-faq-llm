@@ -1,0 +1,1 @@
+Un Héros peut annuler l'effet d'une carte Événement sur laquelle est dessiné un Bouclier en utilisant une face de son Bouclier. Cela est aussi valable pour les cartes piochées au Lever du Soleil.

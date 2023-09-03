@@ -1,0 +1,1 @@
+Chaque côté de la Potion peut être utilisé pendant un combat pour doubler la valeur d'un dé.

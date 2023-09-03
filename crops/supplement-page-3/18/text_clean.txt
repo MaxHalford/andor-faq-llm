@@ -1,0 +1,1 @@
+Exemple pour l'évaluation de la valeur de combat: le Guerrier a 9 Points de Volonté, et jette trois dés. Il obtient: 4, 3, 3. À son dé de plus forte valeur (4), il ajoute la valeur de ses Points de Force (5). Ce qui lui donne une valeur de combat de 9. Si le Héros possédait un Heaume, il aurait pu choisir le double 3 à la place du 4, et aurait obtenu une valeur de combat de 11.

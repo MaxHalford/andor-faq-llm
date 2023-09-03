@@ -1,0 +1,1 @@
+Un Héros peut se déplacer sur une case qui contient un jeton Paysan et choisir de continuer son déplacement avec lui. Il peut accompagner

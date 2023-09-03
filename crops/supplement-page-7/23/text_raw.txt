@@ -1,0 +1,7 @@
+Un Héros peut essayer de retirer un jeton Éboulis d'une case adjacente.
+Cela revient à combattre. La valeur de combat (dé + Points de Force)
+doit être au moins égale à la valeur du jeton. Si la valeur de combat
+est supérieure ou égale à la somme de plusieurs jetons, le Héros peut
+retirer plusieurs jetons à la fois. Chaque tentative pour retirer un
+Éboulis coûte 1 Heure sur la Piste du Temps. En cas de réussite, les
+jetons Éboulis sont retirés du jeu.

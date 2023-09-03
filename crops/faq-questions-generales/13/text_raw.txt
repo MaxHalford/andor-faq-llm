@@ -1,0 +1,3 @@
+Peut-on utiliser la Potion de la Sorcière pour doubler le résultat du lancer d’un de
+ses coéquipiers ?
+Non. Celui qui possède la Potion ne peut l'appliquer que sur ses propres lancers.

@@ -1,0 +1,8 @@
+Capacité Spéciale : À
+, Chaque joueur se présente à ses camarades
+
+{ dej jeu et lit à voix haute la Capacité Spéciale
+
+de son Héros. Remarque : le sens des diverses
+Capacités Spéciales se révèlera en cours de partie.
+

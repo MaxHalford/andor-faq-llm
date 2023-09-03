@@ -1,0 +1,1 @@
+Les Héros qui se trouvent sur la case de la Sorcière peuvent à partir de maintenant acheter sa Potion. Son prix dépend du nombre de joueurs (cf. le plateau Objets). L'Archer pave toujours 1 Pièce d'Or de moins.

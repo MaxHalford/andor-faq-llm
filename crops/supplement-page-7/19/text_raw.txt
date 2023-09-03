@@ -1,0 +1,3 @@
+Si le Prince Thorald se trouve sur la même case qu'une Créature à
+portée d'un ou plusieurs Héros, il ajoute 4 points supplémentaires à la
+valeur de combat du ou des Héros.

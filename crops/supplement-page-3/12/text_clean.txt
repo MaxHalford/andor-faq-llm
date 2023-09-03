@@ -1,0 +1,1 @@
+Si un Héros termine son déplacement sur une case qui contient un jeton Brouillard, il doit retourner le jeton et appliquer son effet. Un Héros peut traverser une case qui contient un jeton Brouillard sans restriction et sans avoir besoin de le retourner.

@@ -1,0 +1,1 @@
+Si la valeur de combat du groupe est plus faible que celle de la Créature, tous les Héros participants perdent chacun le montant de la différence en Points de Volonté.

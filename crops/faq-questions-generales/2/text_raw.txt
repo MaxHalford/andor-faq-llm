@@ -1,0 +1,7 @@
+! Après la lecture des dernières cartes “A” (A1, A2, etc.), la légende commence-t-elle
+avec le Lever du Soleil ou avec l’action du premier Héros ?
+Quand toutes les cartes “A?” ont été lues, c’est le Héros dont la Pierre du Temps se trouve sur le
+Coq qui commence la légende avec une première action. Lorsque tous les Héros ont dépensé les
+Heures qu’ils avaient à leur disposition — toutes les Pierres du Temps sont de nouveau sur la case
+Lever du Soleil —, les Créatures sont alors déplacées pour la première fois en suivant l’ordre des
+symboles.

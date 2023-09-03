@@ -1,0 +1,9 @@
+Points de Volonté:
+
+Au début, tous les Héros ont 7 Points de Volonté.
+
+Chaque joueur place son disque en bois sur la piste des Points de Volonté de sa fiche pour indiquer le nombre de Points de Volonté dont dispose son Héros.
+
+À gauche, est indiqué le nombre de dés qu'il pourra lancer lors des combats.
+
+Exemple: le Guerrier a 7 Points de Volonté et peut combattre avec trois dés, mais s'il perd un Point de Volonté, il n'aura plus que deux dés à sa disposition.

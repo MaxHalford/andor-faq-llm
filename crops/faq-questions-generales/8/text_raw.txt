@@ -1,0 +1,5 @@
+Doit-on terminer son déplacement si on arrive sur une case comportant un jeton
+Brouillard ?
+Non. Les cases comportant un jeton Brouillard peuvent être simplement traversées ; le jeton n’est
+alors pas révélé. Mais si tu termines ton déplacement sur une case avec un jeton Brouillard, il est
+immédiatement activé.

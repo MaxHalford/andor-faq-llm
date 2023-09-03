@@ -1,0 +1,2 @@
+Comme tous les autres Objets, il est possible d'utiliser la Longue-vue
+même si ce n'est pas son tour.

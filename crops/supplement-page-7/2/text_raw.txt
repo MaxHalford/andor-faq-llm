@@ -1,0 +1,4 @@
+ase Défense n'est pas considérée comme une case du plateau de
+Créatures qui les occupent ne peuvent pas être combattues, les
+euvent pas s'y déplacer.
+

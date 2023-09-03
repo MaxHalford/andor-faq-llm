@@ -1,0 +1,3 @@
+*L'adversaire final "Le Gor ensorcelé" double les Points de Force des Héros. Double-t-il les Points de Force de l'ensemble du groupe ou seulement des Héros qui le combattent? Si on pioche la carte Événement "Les Forgerons du palais" (n°23), peut-on refuser les Points de Force supplémentaires?*
+
+Le Gor ensorcelé double seulement le nombre de Points de Force des Héros participant au combat. Les effets de la carte Événement ne peuvent pas être évités; on doit donc accepter les Points de Force supplémentaires.

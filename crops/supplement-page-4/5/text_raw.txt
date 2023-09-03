@@ -1,0 +1,6 @@
+Important : Les Objets comme la Potion ou les Pierres Runiques ne
+peuvent pas être échangés pendant un tour de combat. Exemple : Un
+Héros boit la moitié d'une Potion. Il ne peut pas donner le reste à ses
+coéquipiers. Cependant, il est permis de donner des Objets à la fin
+d'un tour de combat à un autre Héros (si les deux sont sur la même
+: 1 ou si l'un des deux utilise un Faucon).

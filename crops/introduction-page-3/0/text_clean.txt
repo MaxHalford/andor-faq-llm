@@ -1,0 +1,1 @@
+1. Placez un jeton Puits chacune des cases Puits (5, 35, 45, 55).

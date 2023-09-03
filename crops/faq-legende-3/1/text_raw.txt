@@ -1,0 +1,10 @@
+Une carte Destin indique qu’un Skral doit être placé sur la case où est révélée la
+
+première Pierre Runique. Doit-on nécessairement retourner le jeton Pierre Runique
+
+lorsqu'on se trouve sur la même case que ce Skrall ? Est-on obligé de révéler une
+
+Pierre Runique avec la Longue-vue si l’une d’elles se trouve sur une case voisine ?
+Non. Dans ces deux cas, on peut retourner le jeton Pierre Runique mais on n’y est pas obligé. De
+même, il est possible de retourner un jeton Brouillard présent sur une case voisine sans révéler la
+Pierre Runique qui par hasard s’y trouve également.

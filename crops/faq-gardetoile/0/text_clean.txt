@@ -1,0 +1,7 @@
+*Peut-on utiliser les Dons des Andorains en se déplaçant?*
+
+Aucun Don des Andorains ne peut être utilisé pendant un déplacement. S'il s'est déplacé avant, le Héros doit s'arrêter après avoir utilisé le Don.
+
+Exemple 1: Le Guerrier est en possession du Sablier d'Hadria. Il se déplace de deux cases et atteint la septième Heure sur la Piste du Temps. Il se sert du Sablier et recule sa Pierre du Temps de trois cases. Toutefois, il ne peut plus continuer son déplacement et doit attendre le tour suivant.
+
+Exemple 2: Le Magicien est en possession de la Flûte d'Andor. Il se déplace de trois cases et se trouve alors suffisamment près pour que deux autres Héros puissent l'entendre. Il se sert de la Flûte et augmente ainsi le nombre de ses Points de Volonté ainsi que celui des deux Héros situés sur les cases voisines. Il ne peut pas poursuivre son déplacement.

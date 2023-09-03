@@ -1,0 +1,4 @@
+Si un joueur finit son déplacement sur une case comportant un Puits, est-il obligé de
+le vider ?
+Non. Il peut le vider ou choisir de le laisser pour un autre Héros. Seuls les jetons Brouillard
+doivent être nécessairement activés lorsqu'on termine son déplacement.

@@ -1,0 +1,1 @@
+Si un joueur a trois Pierres Runiques de couleur différente sur sa fiche, il reçoit un dé noir. Tant qu'il garde les Pierres Runiques, il peut remplacer un de ses dés de couleur par le dé noir pendant les combats.

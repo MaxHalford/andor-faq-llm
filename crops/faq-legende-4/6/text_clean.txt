@@ -1,0 +1,3 @@
+*Combien de temps un souffle de feu affecte-t-il les cases concernées?*
+
+Le feu n'est dangereux qu'au moment où il se déclenche (au Lever du soleil ou lorsqu'une pierre est ramassée). Après cela, les Héros peuvent se déplacer et rester sur les cases concernées sans danger.

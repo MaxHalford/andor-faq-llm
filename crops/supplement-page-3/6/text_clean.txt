@@ -1,0 +1,1 @@
+Les Points de Volonté indiquent le nombre de dés qu'un Héros utilise combat (à gauche de la ligne). Exemple: le Guerrier a 7 Points de Volonté et 3 dés au combat, mais s'il perd au moins 1 Point de Volonté son marqueur atteindra la première ligne, il n'aura alors plus que 2 dés à sa disposition.

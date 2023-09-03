@@ -1,0 +1,3 @@
+*L'alarme se déclenche-t-elle même si, au Lever du Soleil, une Créature atteint la même case qu'un Héros?*
+
+Oui, peu importe si un Héros arrive sur une case déjà occupée par une Créature ou si une Créature le rejoint; dans tous les cas, l'alarme va se déclencher.

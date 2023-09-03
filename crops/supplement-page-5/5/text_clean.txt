@@ -1,0 +1,1 @@
+Les dessins à gauche de la ligne des Points de Volonté indique le nombre et le type de dés que la Créature utilise au combat. Un Wardrak a, par exemple, 10 Points de Force et 7 Points de Volonté et utilise 2 dés noirs.

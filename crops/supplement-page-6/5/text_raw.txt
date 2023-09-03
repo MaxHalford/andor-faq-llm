@@ -1,0 +1,4 @@
+os qui possède un Arc peut attaquer une Créature dune case
+djacente. Il doit jeter ses dés l'un après l'autre, et décider quand il
+oi
+larrête ul le dernier dé jeté peut être conservé.

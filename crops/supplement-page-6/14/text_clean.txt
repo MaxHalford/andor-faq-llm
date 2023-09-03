@@ -1,0 +1,1 @@
+Il est impossible d'utiliser la Longue-vue pendant un déplacement ou un tour de combat.

@@ -1,0 +1,4 @@
+éros utilise la Longue-vue, il peut retourner tous les jetons des
+entes. Les jetons ainsi révélés ne sont pas activés et restent
+e jusqu'à ce qu'un Héros termine son déplacement dessus.
+

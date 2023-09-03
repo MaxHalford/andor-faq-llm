@@ -1,0 +1,39 @@
+Préparation du jeu :
+
+- Placez le plateau au milieu de la table de façon à ce que le
+pays d'Andor soit visible.
+
+- Posez les 7 grandes tuiles face bleue visible : "Puits" sur
+la case 5, "Brouillard" sur les cases 11, 12 et 13, “Trésor” de
+valeur 1 sur la case 20, "Trésor" de valeur 2 sur la case 17 et
+"Marchand" sur la case 18.
+
+- Tous les joueurs placent un de leurs disques sur la case Lever
+du Soleil. Ces disques sont appelés Pierre du Temps.
+
++ Chaque joueur pose son pion sur une de ces cases : le
+Nain sur la 43, le Guerrier sur la 25, l'Archer sur la 53, et le
+Magicien sur la 9.
+
+* Placez les Pièces d'Or à portée de main près du plateau.
+
+- Classez les cartes de la Légende 1 "LArrivée des Héros" par
+ordre alphabétique. La carte A1 doit être au-dessus de la pile,
+la carte A2 en dessous, puis la BI et ainsi de suite jusqu’à N.
+Placez la pile à côté de la Piste des Légendes.
+
+* Les deux cartes Fin du Combat et Combattre en Groupe
+seront utilisées plus tard, et ne sont pas nécessaires pour le
+moment.
+
+Piste des Légendes
+
+Pierres du Temps des Héros
+sur la case Lever du Soleil
+
+Cartes de la
+Légende 1
+
+\e
+
+Narrateur

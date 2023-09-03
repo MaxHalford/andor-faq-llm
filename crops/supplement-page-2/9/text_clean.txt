@@ -1,0 +1,1 @@
+Une fois l'action résolue, c'est au tour du Héros suivant dans le sens des aiguilles d'une montre. Il doit choisir entre se déplacer ou combattre et peut dépenser autant d'Heures qu'il le souhaite pour réaliser son action.

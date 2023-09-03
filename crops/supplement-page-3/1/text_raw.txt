@@ -1,0 +1,2 @@
+un Héros indique sa Capacité Spéciale, ses différentes
+iques (Points de Force et de Volonté) et son Équipement.

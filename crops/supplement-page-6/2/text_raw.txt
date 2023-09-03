@@ -1,0 +1,2 @@
+près la première utilisation, le Bouclier est retourné sur sa face
+lommagée. Après la deuxième, il est replacé sur le plateau Objets.

@@ -1,0 +1,3 @@
+La journée d'un Héros se termine normalement lorsqu'il a dépensé ses 7 heures. Voici une exception:
+
+Un joueur peut décider de dépenser plus de 7 heures pendant une journée. Il peut utiliser jusqu'à 3 heures supplémentaires. Chaque heure supplémentaire lui coûte toutefois 2 points de volonté. Il recule pour cela le disque d'autant de cases sur sa piste de point de volonté de sa fiche de Héros. Un Héros ne peut jamais arriver à 0 points de volonté. Un Héros ne peut jamais arriver à 0 points de volonté en utilisant des heures supplémentaires.

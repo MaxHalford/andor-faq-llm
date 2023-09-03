@@ -1,0 +1,4 @@
+5: Mélangez la pile de cartes
+Événement. Posez la carte avec la
+flèche verte face cachée sur le dessus
+de la pile.

@@ -1,0 +1,3 @@
+Un Héros peut décider de ne pas utiliser tous les points de l'Hi
+points restant sont perdus.
+

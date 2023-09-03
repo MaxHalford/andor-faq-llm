@@ -1,0 +1,4 @@
+Peut-on utiliser la gourde sans dépenser du tout d'heure en déplacement ?
+Oui. Il est possible d'utiliser la gourde sans dépenser d'heure pour se déplacer, mais cela est tout
+de même considéré comme une action de mouvement. On ne peut pas le faire pendant un autre
+type d’action.

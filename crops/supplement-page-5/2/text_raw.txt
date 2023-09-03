@@ -1,0 +1,10 @@
+À chaque début de Journée, les Créatures se déplacent vers le Château.
+On ommence toujours par le Gor qui est situé sur la case avec le plus
+uméro. Chaque Créature se déplace vers la case adjacente à la
+ndiquée par la flèche. Sur chaque case, il ne peut y avoir qu'une
+
+autre Créature, elle poursuit son déplacement vers la prochaine
+re en suivant la flèche. Après les Gors, ce sont aux Skrals puis aux
+res Créatures de se déplacer (l'ordre est indiqué sur la case Lever du
+eil). Si une Créature arrive en jeu sur une case déjà occupée par une
+elle se déplace vers la prochaine case libre en suivant la flèche.

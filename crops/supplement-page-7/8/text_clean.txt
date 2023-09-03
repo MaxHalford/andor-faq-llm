@@ -1,0 +1,1 @@
+Si un Héros utilise la Longue-vue, il peut retourner tous les jetons des cases adjacentes. Les jetons ainsi révélés ne sont pas activés et restent face visible jusqu'à ce qu'un Héros termine son déplacement dessus.

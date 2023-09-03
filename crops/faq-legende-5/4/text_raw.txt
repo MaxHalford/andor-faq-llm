@@ -1,0 +1,5 @@
+Si, grâce au Bouclier, je décide d'éviter une carte “Combat contre le Dragon” après
+un tour de combat perdu, est-ce que je laisse cette carte au-dessus de la pile ?
+Non. Ton Bouclier te permet seulement de contrer les effets néfastes que la carte peut avoir sur
+toi-même ou le groupe de Héros. En cas de combat perdu, la carte sera toujours replacée sous la
+pile.

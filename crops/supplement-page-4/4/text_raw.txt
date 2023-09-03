@@ -1,0 +1,3 @@
+portant : le Magicien peut décider de retourner un dé d'un des
+équipiers au lieu du sien. Il doit se décider aussitôt après le jet.
+as attendre que tous les joueurs aient jeté leurs dés pour

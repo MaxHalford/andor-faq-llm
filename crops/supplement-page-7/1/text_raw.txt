@@ -1,0 +1,7 @@
+Créature arrive sur le Château, elle est aussitôt placée sur une
+fense à côté (Bouclier doré). S'il n'y a plus de case Défense
+ble pour une Créature, la Légende est aussitôt perdue. Le
+de cases Défense disponibles dépend du nombre de joueurs et
+indiqué près du Château.
+
+D

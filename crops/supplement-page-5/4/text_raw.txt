@@ -1,0 +1,3 @@
+Lorsqu' une Créature est combattue, indiquez ses Points de Force avec le
+cube rouge et ses Points de Volonté avec le disque rouge sur le tableau.
+

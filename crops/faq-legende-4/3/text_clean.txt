@@ -1,0 +1,3 @@
+*Comment doit-on déplacer les créatures lorsqu'un éboulis crée un "bouchon"?*
+
+Il ne peut jamais y avoir plus d'une créature sur la même case. Si une créature ou une série de créatures se retrouvent bloquées par un éboulis, elles restent simplement sur place.

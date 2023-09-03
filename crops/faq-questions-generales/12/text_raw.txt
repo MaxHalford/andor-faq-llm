@@ -1,0 +1,4 @@
+Une fois les dés jetés lors d’un tour de combat, peut-on utiliser les deux faces de la
+Potion de la Sorcière en même temps ?
+Non. Avec l’une des faces, tu multiplies par deux le résultat d’un lancer. Tu dois ensuite attendre
+le tour de combat suivant pour utiliser la seconde face du jeton.

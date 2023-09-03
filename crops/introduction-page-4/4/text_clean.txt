@@ -1,0 +1,3 @@
+Avant de commencer une nouvelle Journée, tous les autres Héros doivent avoir fini leur Journée et posé leur Pierre du Temps sur la case Lever du Soleil.
+
+Après cela, on applique les effets des différents symboles de la case. Une fois l'ensemble des symboles résolus, le joueur qui a sa Pierre du Temps sur le Coq commence la nouvelle Journée.

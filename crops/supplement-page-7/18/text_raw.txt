@@ -1,0 +1,3 @@
+Si un Héros déplace un Paysan sur une case occupée par une Créature
+ou si celle-ci se déplace sur une case contenant un Paysan, le Paysan est
+tout de suite vaincu et le jeton est retiré du jeu.

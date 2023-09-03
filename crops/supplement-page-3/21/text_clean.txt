@@ -1,0 +1,1 @@
+En cas d'égalité dans les valeurs de combat, il ne se passe rien.

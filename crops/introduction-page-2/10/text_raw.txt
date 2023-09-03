@@ -1,0 +1,9 @@
+Si un joueur termine son déplacement sur une case avec un jeton, celui-ci est
+activé et on applique tout de suite son effet.
+
+Exemple d'un tour de jeu :
+
+Le Magicien se déplace de deux cases et s'arrête sur la case 11, sur laquelle se
+trouve un jeton Brouillard. Sa Pierre du Temps est avancée de 2 Heures sur la Piste
+du Temps. Il doit aussitôt retourner le jeton Brouillard et appliquer son effet. C'est
+maintenant à son voisin de gauche de jouer.

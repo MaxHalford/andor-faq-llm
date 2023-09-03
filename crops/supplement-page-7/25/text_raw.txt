@@ -1,0 +1,4 @@
+Le chiffre sur le jeton indique la valeur en Pièces d'Or (2, 4, 6) des
+Pierres Précieuses. Elles peuvent être dépensées chez un Marchand
+pour acheter des Objets ou des Points de Force.
+

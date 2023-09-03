@@ -1,0 +1,1 @@
+Un Héros peut vider un Puits et recevoir 3 Points de Volonté. Tous les Puits vidés sont rafraichis au Lever du Soleil, sauf ceux occupés par un Héros.

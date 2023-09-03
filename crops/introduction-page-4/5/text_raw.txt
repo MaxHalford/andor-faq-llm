@@ -1,0 +1,55 @@
+1. Piochez la première carte Événement, lisez-la à
+haute voix et appliquez son effet.
+
+2. Déplacez tous les Gors :
+
+On commence toujours par déplacer le Gor qui se trouve sur la case
+avec le plus petit numéro. Dans votre situation, cest donc
+
+le Gor de la case 16 qui se déplace en premier. La Créature
+
+se déplace sur la case adjacente désignée par la petite flèche
+
+(ainsi de la 16 vers la 13).
+
+Très important : il ne peut y avoir qu'une seule Créature
+
+par case (Gor, Skral ou autres). Si la case de destination est
+
+_ déjà occupée, la Créature en mouvement se déplace jusqu'à la
+prochaine case adjacente en suivant la flèche.
+
+Exemple : Le Gor de la case 22 se déplace vers la 19. Le Gor de la case
+23 se déplace également vers la 19. Comme la case 19 est occupée, il est
+déplacé de la case 23 à la case 3.
+
+3 à 6. Déplacez les autres Créatures en suivant l'ordre des dessins.
+Si d'autres Créatures sont en jeu, elles se déplacent exactement comme
+
+les Gors. Remarque : Pour le moment, il n'y a que les Gors qui sont en jeu.
+
+8. La case Lever du Soleil
+
+Lisez maintenant les points suivants et
+appliquez tout de suite les effets des symboles.
+
+7. Rafraîchissez tous les Puits.
+
+Les jetons Puits sont retournés du côté coloré. Si
+un Héros se trouve sur la case d'un jeton Puits à
+rafraîchir, celui-ci n'est pas retourné.
+
+8. Avancez le Narrateur d'une case sur la Piste des Légendes.
+Le Narrateur se déplace de cette façon à chaque Lever du
+Soleil.
+
+Important : N'oubliez pas de déplacer le Narrateur, car il fait
+avancer l'histoire !
+
+Si le Narrateur atteint une case avec un jeton Étoile, un
+
+joueur pioche la première carte Légende et la lit à haute voix.
+Remarque : certaines lettres ne déclenchent pas de carte.
+Comme le Narrateur a maintenant atteint la lettre B, lisez la
+carte B1 à voix haute.
+

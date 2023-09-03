@@ -1,0 +1,1 @@
+Si la Créature n'a plus de Points de Volonté, le Héros gagne le combat. Il reçoit aussitôt comme récompense des Pièces d'Or et/ou des Points de Volonté. Le montant de la récompense est indiqué sous les Points de Force de la Créature dans le tableau des Créatures. Il peut ne prendre que des Pièces d'Or ou que des Points de Volontés ou panacher à sa convenance.

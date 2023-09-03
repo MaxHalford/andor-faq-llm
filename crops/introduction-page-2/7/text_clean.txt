@@ -1,0 +1,1 @@
+Le Héros dont c'est le tour réalise toujours une seule action. Après cela, c'est à son voisin de gauche de jouer.

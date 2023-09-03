@@ -1,0 +1,5 @@
+! Que se passe-t-il lorsque Tarok est vaincu ? Est-ce que l’on doit continuer à
+combattre les autres Créatures ?
+Non. Lorsque le Dragon est vaincu, la Légende est terminée. Comme dans les autres Légendes, le
+Narrateur est immédiatement placé sur le jeton N — même si ce n’est pas indiqué très clairement
+sur cette carte Légende.

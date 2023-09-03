@@ -1,0 +1,2 @@
+Plusieurs Héros peuvent occuper la même case. Cela vaut pour
+toutes les cases.

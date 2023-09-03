@@ -1,0 +1,4 @@
+* À son tour, un Héros peut décider, au lieu de réaliser une action, de
+terminer sa Journée. Dans ce cas, il place sa Pierre du Temps sur la
+case Lever du Soleil. Si c'est le premier à le faire, il la place sur le Coq:
+il commencera la Journée suivante.

@@ -1,0 +1,16 @@
+La Riposte de la Créature :
+
+1. Avant le combat, indiquez les Points de Force et de Volonté de la
+Créature attaquée sur le tableau des Créatures en bas du plateau de
+jeu. Ensuite, le joueur à gauche de l'attaquant jette tous les dés que la
+Créature a à sa disposition. Les Gors, les Skrals, et les Trolls utilisent
+des dés rouges. Les Wardraks utilisent des dés noirs.
+
+2. Gardez le dé de plus grande valeur de la Créature. Si la Créature
+obtient plusieurs dés identiques, leurs valeurs s'ajoutent (pour
+les Créatures seulement). Gardez alors le meilleur résultat : soit le
+meilleur dé, soit les dés identiques.
+
+3. Ajoutez à ce nombre le nombre de Points de Force de la Créatu
+total détermine sa valeur de combat.
+

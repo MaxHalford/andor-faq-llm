@@ -1,0 +1,10 @@
+Comment peut-on vaincre ou apprivoiser les Loups en jouant le Héros bonus Orfen
+ou Marfa ?
+Lorsqu’Orfen combat un Loup ou tente d’apprivoiser le Loup Alpha, ces derniers ont une valeur
+de combat quatre fois supérieure au nombre de Points de Force indiqué sur la fiche du Héros.
+
+Exemple : Orfen a 2 Points de Force et se trouve sur la case 65. Dans ce cas, il a 6 Points de
+Force au total. Le Loup quant à lui ne multiplie par quatre que le nombre de Points de Force
+inscrits sur la fiche du Héros Orfen : il possède donc une valeur de combat de 4 x 2 = 8. Orfen
+doit alors obtenir au minimum un 2 avec le dé pour égaler la valeur de combat du Loup (2 + 6 =
+8).

@@ -1,0 +1,3 @@
+Exemple : Le Guerrier jette ses dés et obtient 3, 4, 4. Le Magicien décide
+d'utiliser son pouvoir pour transformer le 3 en 4. Avec l'aide du Heaume,
+le Guerrier a maintenant un triple 4 et 12 points pour son jet de dés.

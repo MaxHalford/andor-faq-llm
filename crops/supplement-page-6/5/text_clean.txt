@@ -1,0 +1,1 @@
+Le Héros qui possède un Arc peut attaquer une Créature d'une case adjacente. Il doit jeter ses dés l'un après l'autre, et décider quand il s'arrête. Seul le dernier dé jeté peut être conservé.

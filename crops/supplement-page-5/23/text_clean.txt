@@ -1,0 +1,2 @@
+Ces Objets peuvent être achetés chez n'importe quel Marchand contre 2 Pièces d'Or l'unité. La colonne de droite concerne la Potion de la  Sorcière. Celle-ci peut être achetée uniquement sur la case où se situe
+la Sorcière. Son prix dépend du nombre de joueurs. L'Archer a toujours une réduction d'une Pièce d'Or pour l'acheter.

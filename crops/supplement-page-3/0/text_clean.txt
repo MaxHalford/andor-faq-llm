@@ -1,0 +1,1 @@
+Chaque joueur choisit au début du jeu son Héros et reçoit la fiche et le matériel correspondant (disques, cube, dés). Le nombre de dés n'est pas le même pour tous les Héros.

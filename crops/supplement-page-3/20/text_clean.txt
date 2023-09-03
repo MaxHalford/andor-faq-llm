@@ -1,0 +1,1 @@
+La différence entre les deux valeurs de combat indique le nombre de Points de Volonté perdus par le camp ayant la plus faible valeur de combat. L'Archer et les Héros munis d'un Arc qui attaquent d'une: adjacente perdent également des Points de Volonté en cas de défaite.

@@ -1,0 +1,3 @@
+Quand un Héros termine sa Journée (volontairement ou de force), il
+place sa Pierre du Temps sur la case Lever du Soleil. S'il est le premier
+à le faire, il la place sur le Coq. Il commencera la Journée suivante.

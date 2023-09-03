@@ -1,0 +1,1 @@
+La Potion permet de doubler la valeur d'un de ses dés lors d'un tour de combat. Elle peut être utilisée deux fois en tout avant d'être remise sur le plateau Objets, mais une seule fois par tour de combat seulement.

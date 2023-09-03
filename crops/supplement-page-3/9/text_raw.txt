@@ -1,0 +1,3 @@
+Chacune de ces actions coûte des Heures sur la Piste du Temps. Chaque
+tour de combat coûte 1 Heure. Se déplacer coûte 1 Heure par case
+empruntée. Passer coûte 1 Heure.

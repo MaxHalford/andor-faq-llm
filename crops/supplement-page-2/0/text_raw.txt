@@ -1,0 +1,5 @@
+s incarnent des Héros dont le but est de sauver ensemble le
+lAndor de la menace des terribles créatures qui veulent l'envahir.
+
+€ divise en 5 scénarios différents appelés "Légendes". Chacune
+les utilise son propre paquet de cartes Légendes.

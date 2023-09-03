@@ -1,0 +1,1 @@
+En commençant par le Héros qui a engagé le combat puis dans le sens horaire, chacun jette ses dés et conserve son dé de plus grande valeur. Ajoutez au résultat de ces dés tous les Points de Force de tous Héros participants. Ce total donne la valeur de combat du groupe.

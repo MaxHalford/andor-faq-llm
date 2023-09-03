@@ -1,0 +1,3 @@
+*Combien de Héros peuvent se tenir en même temps sur le «Vieux Donjon»? Est-ce que je dois dépenser des Heures en plus pour y parvenir?*
+
+Il ne peut y avoir qu'un seul Héros à la fois sur le "Vieux Donjon". Un Héros sur la case 17 peut simplement déplacer sa figurine sur la Tour: cela ne lui coûte rien. Seul ce Héros obtient deux Points de Force supplémentaires.

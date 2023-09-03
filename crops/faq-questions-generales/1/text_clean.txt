@@ -1,0 +1,3 @@
+*Peut-on ramasser des jetons, comme par exemple des Pierres Runiques ou des Pièces d'or, pendant un déplacement?*
+
+Non. Pour ramasser un jeton, il faut terminer son déplacement sur la case où il est posé. Si, au cours de la partie, une Pierre Runique doit être placée sur la case où un joueur se trouve, ce dernier peut alors la ramasser, même si ce n'est pas à lui de jouer. À son tour de jeu, il pourra effectuer son action tout à fait normalement (se déplacer, par exemple).

@@ -1,0 +1,1 @@
+Il ne peut y avoir qu'un seul Objet sur chaque case Équipement, mais il n'a pas de limite pour les Pièces d'Or et les Pierres Précieuses.

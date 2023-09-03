@@ -1,0 +1,8 @@
+Déroulement d'un Combat :
+
+Un Héros peut combattre une Créature qui est sur la même case que lui.
+L'Archer et tout Héros qui possède un Arc peuvent également attaquer
+d'une case adjacente.
+
+Si un Héros vient de rejoindre la Créature qu'il veut combattre, il faut
+qu'il attende son prochain tour pour attaquer.

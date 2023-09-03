@@ -1,0 +1,25 @@
+Exemples d'un combat en groupe :
+
+1. Le Nain se situe sur la même case qu'un Skral, et c'est à lui de jouer.
+Il invite le Magicien, qui se trouve aussi sur sa case, et l'Archer qui est
+sur une case adjacente à la Créature visée. Les trois Héros avancent
+leurs Pierres du Temps d'une case. Ensuite, ils ajoutent leur Points de
+Force et obtiennent un total de 7. Puis chacun jette ses dés dans l'ordre
+du tour. C'est le Nain qui commence. Il jette trois dés et obtient un 5.
+Il décide de doubler sa valeur grâce à une gorgée de Potion : elle est
+désormais à moitié vide. Le Magicien obtient un 4 et utilise une Herbe
+pour augmenter le résultat de 3. Il apporte au groupe 7 points. L'Archer
+jette l'un après l'autre ses trois dés et obtient comme dernier résultat
+un 2. Le Magicien utilise donc sa Capacité Spéciale pour transformer
+ce 2 en 5. La valeur de combat du groupe est de 29. Le Skral jette 2 dés
+rouges et obtient deux 5. Les dés de même valeur s'ajoutent pour les
+Créatures, donc la valeur de combat du Skral est de 16 (10 + 6 Points
+de Force). La différence entre les deux valeurs de combat est de 13, en
+faveur des Héros. Comme le Skral n'a que 6 Points de Volonté, il est
+
+tout de suite vaincu. Les trois Héros se partagent la récompense. Le
+
+Magicien se désiste. Le Nain prend 2 Pièces d'Or et l'Archer 1 Point de
+
+Volonté et 1 Pièce d'Or.
+

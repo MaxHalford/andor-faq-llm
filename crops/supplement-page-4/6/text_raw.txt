@@ -1,0 +1,9 @@
+lun tour de combat, chaque Héros peut décider d'abandonner.
+
+-H0S qui abandonnent ne pourront plus revenir dans le combat.
+
+éros ayant engagé le combat peut abandonner sans que le
+t prenne fin. Tant qu'au moins un Héros participe, le combat
+
+as terminé. Dans ce cas, c'est le Héros suivant dans l'ordre du
+jeu qui commencera le prochain tour de combat.

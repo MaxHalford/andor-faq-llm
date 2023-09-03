@@ -1,0 +1,1 @@
+Dans la première partie du jeu d'introduction, vous découvrirez l'action "se déplacer". Un Héros peut se déplacer pendant son tour d'autant de cases qu'il le souhaite. Important: on ne tient pas compte des flèches représentées sur les cases lors des déplacements des Héros.

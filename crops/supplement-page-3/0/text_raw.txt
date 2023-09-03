@@ -1,0 +1,4 @@
+LE 1 choisit au début du jeu son Héros et reçoit la fiche et le
+ét rrespondant (disques, cube, dés). Le nombre de dés n'est pas
+ême pour tous les Héros.
+

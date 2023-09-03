@@ -1,0 +1,1 @@
+Une case Défense n'est pas considérée comme une case du plateau de jeu: les Créatures qui les occupent ne peuvent pas être combattues, les Héros ne peuvent pas s'y déplacer.

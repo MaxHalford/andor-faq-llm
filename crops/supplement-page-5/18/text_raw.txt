@@ -1,0 +1,2 @@
+Si un Héros a dépensé toutes ses Heures, les autres Héros peuvent
+encore jouer jusqu'à ce qu'ils aient dépensé les leurs.

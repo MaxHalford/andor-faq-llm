@@ -1,0 +1,2 @@
+Pour chaque Heure dépensée, avancez la Pierre du Temps du Héros
+d'une case.

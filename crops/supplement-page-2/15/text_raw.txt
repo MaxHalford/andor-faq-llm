@@ -1,0 +1,2 @@
++ Si le Narrateur atteint une case à laquelle est attachée une carte, les
+joueurs doivent aussitôt la lire et appliquer ses consignes.

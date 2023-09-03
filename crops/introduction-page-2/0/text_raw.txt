@@ -1,0 +1,6 @@
+La fiche de Héros
+
+Elle indique les différentes
+caractéristiques du Héros et son
+équipement.
+

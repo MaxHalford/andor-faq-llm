@@ -1,0 +1,2 @@
+La fiche d'un Héros indique sa Capacité Spéciale, ses différentes
+caractéristiques (Points de Force et de Volonté) et son Équipement.

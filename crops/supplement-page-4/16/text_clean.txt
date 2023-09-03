@@ -1,0 +1,4 @@
+C'est au Magicien de jouer. Il possède 3 Pièces d'Or. Il décide de se
+déplacer: il avance de 3 cases et termine son déplacement sur une case
+avec un symbole Marchand. Il avance sa Pierre du Temps de 3 cases. Il
+peut tout de suite acheter: il prend un Faucon contre 2 Pièces d'Or. Il lui reste une pièce. Comme il a terminé son déplacement, il ne peut plus avancer. L'Archer reçoit à son tour 1 Pièce d'Or en activant un Jeton Brouillard. Le Magicien, bien que ce ne soit pas son tour, utilise son Faucon pour récupérer la Pièce d'Or de l'Archer. Il a donc maintenant 2 Pièces d'Or et peut aussitôt acheter quelque chose d'autre, même si ce n'est pas son tour.

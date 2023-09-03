@@ -1,0 +1,4 @@
+lu Si. urs Héros se trouvent sur la même case qu'une Créature (ou
+e case adjacente pour l'Archer et les Héros munis d’un Arc), ils
+nt combattre ensemble.
+

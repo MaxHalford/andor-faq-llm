@@ -1,0 +1,3 @@
+Remarque : En plus d'une de ces actions, un Héros peut réaliser d'autres
+tâches, sans dépenser de temps (cf. page 4).
+

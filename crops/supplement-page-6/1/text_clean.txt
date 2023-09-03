@@ -1,0 +1,1 @@
+Si un Héros choisit de se déplacer, il peut utiliser la Gourde pour se d'une case supplémentaire, sans dépenser de temps.

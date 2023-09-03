@@ -1,0 +1,3 @@
+Passer
+Si un joueur ne veut rien faire pendant son tour, il peut passer. Dans ce cas, sa Pierre
+du Temps est avancée d'une Heure. C'est maintenant à son voisin de gauche de jouer.

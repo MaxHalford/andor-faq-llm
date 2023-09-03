@@ -1,0 +1,1 @@
+Il n'est possible d'utiliser l'effet de la Potion qu'une seule fois par tour de combat. Un Héros ne peut donc se servir que d'une moitié et que d'une seule Potion à chaque tour de combat, même si celui-ci en a plusieurs. Le Héros doit décider s'il l'utilise ou non immédiatement après son jet de dés.

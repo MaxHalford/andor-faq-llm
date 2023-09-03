@@ -1,0 +1,3 @@
+! Que se passe-t-il si une Créature atteint la sortie de la Mine (case 0) ?
+Le jeton N est immédiatement déplacé d’une case vers le bas sur la Piste des Légendes ct la
+Créature est retirée du jeu. Cette indication a malheureusement été oubliée sur la carte Légende.

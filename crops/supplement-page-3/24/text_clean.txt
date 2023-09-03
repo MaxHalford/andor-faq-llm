@@ -1,0 +1,1 @@
+La Créature vaincue est placée sur la case 80 et le Narrateur est aussitôt avancé d'une case!

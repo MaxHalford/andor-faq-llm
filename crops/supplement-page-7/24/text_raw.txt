@@ -1,0 +1,2 @@
+Comme pour un combat contre une Créature, les Héros peuvent essayer
+de retirer des Éboulis à plusieurs. Cela revient à combattre en groupe.

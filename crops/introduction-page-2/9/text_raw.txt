@@ -1,0 +1,10 @@
+Chaque case empruntée par le Héros coûte une Heure sur la Piste du Temps.
+Le Héros avance sa Pierre du Temps d'autant d’Heures que de cases qu’il a
+franchies lors de son déplacement.
+
+== Le HN "È ne
+Dans la première partie du jeu d'introduction, les Héros ont chacun 7 Heures
+au maximum à leur disposition. Si un joueur a dépensé toutes ses Heures, seuls
+ceux qui ont encore du temps continuent à jouer. Lorsque tous les joueurs ont
+dépensé toutes leurs Heures, le tour prend fin. J
+
