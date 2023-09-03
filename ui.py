@@ -7,7 +7,7 @@ import requests
 
 st.image('http://andor.iello.fr/wp-content/uploads/2014/11/header-image.png')
 
-st.info("""Cet outil est une preuve de concept. C'est un système de question/réponse basé sur le jeu de société [Andor](https://andor.iello.fr/). Ce dernier est un jeu de rôle de plateau avec des règles relativement complexes. Le système est un modèle de langage qui a indexé le livre de règles français du jeu. Cliquez [here](https://github.com/MaxHalford/andor-faq-llm) pour en savoir plus.
+st.info("""Cet outil est une preuve de concept. C'est un système de question/réponse basé sur le jeu de société [Andor](https://andor.iello.fr/). Ce dernier est un jeu de rôle de plateau avec des règles relativement complexes. Le système est un modèle de langage qui a indexé le livre de règles français du jeu. Cliquez [ici](https://github.com/MaxHalford/andor-faq-llm) pour en savoir plus.
 
 Le système va suggérer des parties du livret de règles qui correspondent à la question posée. Il va ensuite suggérer une réponse synthétique en fusionant ce qu'il sait déjà du jeu, et les parties suggérées. Il faut scroller en bas de la page pour voir la réponse.
 """)
